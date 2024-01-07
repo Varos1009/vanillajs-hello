@@ -1,1 +1,10 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+h1 {
+  margin: 50px;
+  color: blue;
+}
